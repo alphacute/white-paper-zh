@@ -367,5 +367,3 @@ tea在启动时分配奖励时，可能不会区分构建的依赖项和运行�
 | Staking | The action of locking tea tokens to secure the proof-of-stake network upon which the tea system is built. |
 | Steeping | The action of locking tea tokens to support your claim and receive rewards (or penalties) based on the consensus on the validity of your claim. |
 
-
-# References
