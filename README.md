@@ -27,8 +27,6 @@
 
 ![Simplified view of the tea steeping rewards system.](img/figure-1.svg)
 
-$\parskip=0pt plus 1pt$
-
 [^1]: Source: @nist
 [^2]: Source: @reuters
 [^3]: Source: @twitter
@@ -359,8 +357,6 @@ tea在启动时分配奖励时，可能不会区分构建的依赖项和运行�
 # 鸣谢
 
 这份白皮书离不开诸多Tea爱好者的支持和奉献。笔者要感谢Josh Kruger、Jadid Khan和Jacob Heider对tokenomics的贡献，以及许多自愿花时间对本文内容提供反馈的认真的人士。
-
-$\parskip=0pt plus 1pt$
 
 # Glossary of Terms
 
