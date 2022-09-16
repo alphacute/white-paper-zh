@@ -1,6 +1,6 @@
 # Tea.xyz：可以用于激励开源生态系统的去中心化协议
 
-本文为<Max Howell  Timothy Lewis  Thomas Borrel>原创，原文地址：https://github.com/teaxyz/white-paper/blob/main/white-paper.md此版本的中文版，由阿法兔翻译，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接，及本声明。
+本文为<Max Howell  Timothy Lewis  Thomas Borrel>原创，原文地址：https://github.com/teaxyz/white-paper/blob/main/white-paper.md 此版本的中文版，由阿法兔翻译，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接，及本声明。
 
 # 声明
 
